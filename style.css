@@ -1,0 +1,28 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 4px 3px coral;
+    font-style:italic;
+    font-size: 250%;
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+
+h3 {
+    font-family: monospace;
+    text-shadow: none;
+    font-weight: bold;
+    
+}
+
+hr {
+    border-top: 3px dashed black;
+  }
+
+  div {
+      text-shadow: 2px 2px blueviolet;
+      font-size: larger;
+      
+  }
